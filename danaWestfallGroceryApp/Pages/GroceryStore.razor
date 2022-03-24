@@ -1,0 +1,16 @@
+﻿@page "/GroceryStore"
+
+<h1>Grocery Store</h1>
+<ul>
+    @foreach (var GroceryStore in GroceryStoreList)
+    {
+        <li>@GroceryStore.Title</li>
+    }
+</ul>
+
+<input placeholder="Grocery Isle" />
+<button>submit</button>
+@code {
+ private List<FoodItem> GroceryStoreList = new();
+}
+
