@@ -78,39 +78,6 @@
         }
       },
       {
-        "HashCode": 1334721376,
-        "Kind": "Components.Component",
-        "Name": "danaWestfallGroceryApp.Pages.Index",
-        "AssemblyName": "danaWestfallGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "danaWestfallGroceryApp.Pages.Index"
-        }
-      },
-      {
-        "HashCode": -1853560657,
-        "Kind": "Components.Component",
-        "Name": "danaWestfallGroceryApp.Pages.Index",
-        "AssemblyName": "danaWestfallGroceryApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "danaWestfallGroceryApp.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "danaWestfallGroceryApp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 646180164,
         "Kind": "Components.Component",
         "Name": "danaWestfallGroceryApp.Pages.GroceryStore",
@@ -140,6 +107,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "danaWestfallGroceryApp.Pages.GroceryStore",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1334721376,
+        "Kind": "Components.Component",
+        "Name": "danaWestfallGroceryApp.Pages.Index",
+        "AssemblyName": "danaWestfallGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "danaWestfallGroceryApp.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -1853560657,
+        "Kind": "Components.Component",
+        "Name": "danaWestfallGroceryApp.Pages.Index",
+        "AssemblyName": "danaWestfallGroceryApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "danaWestfallGroceryApp.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "danaWestfallGroceryApp.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
